@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ListView xmlns="http://soap.sforce.com/2006/04/metadata">
+    <fullName>AL</fullName>
+    <columns>NAME</columns>
+    <columns>key__c</columns>
+    <columns>player_id__c</columns>
+    <columns>avg__c</columns>
+    <columns>h__c</columns>
+    <columns>hr__c</columns>
+    <columns>rbi__c</columns>
+    <columns>ops__c</columns>
+    <columns>sb__c</columns>
+    <columns>wo__c</columns>
+    <filterScope>Everything</filterScope>
+    <filters>
+        <field>league__c</field>
+        <operation>equals</operation>
+        <value>AL</value>
+    </filters>
+    <label>AL</label>
+</ListView>

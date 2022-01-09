@@ -1,0 +1,16 @@
+{
+  "status": 0,
+  "result": {
+    "createdById": "0055h0000056rS4AAI",
+    "createdByName": "takada ikumi",
+    "createdDate": "2022-01-03T06:17:32.000Z",
+    "fileName": "dashboards/MLB",
+    "fullName": "MLB",
+    "id": "00l5h0000024wu5AAA",
+    "lastModifiedById": "0055h0000056rS4AAI",
+    "lastModifiedByName": "takada ikumi",
+    "lastModifiedDate": "2022-01-03T06:17:32.000Z",
+    "manageableState": "unmanaged",
+    "type": "DashboardFolder"
+  }
+}
